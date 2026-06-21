@@ -4,7 +4,7 @@
 
 **I build production websites and automated data pipelines.**
 
-[![Email](https://img.shields.io/badge/millonrchie@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebayona076@gmail.com)
+[![Email](https://img.shields.io/badge/ebayona076@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebayona076@gmail.com)
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com)
 [![Location](https://img.shields.io/badge/Ecuador-🇪🇨-lightgrey?style=flat)](https://github.com/edt092)
 
