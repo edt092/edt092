@@ -90,4 +90,4 @@ I'm open to projects involving:
 - Migrating or improving existing Next.js / React apps
 - Technical SEO implementation
 
-**Response time: under 24 hours** · [millonrchie@gmail.com](mailto:millonrchie@gmail.com)
+**Response time: under 24 hours** · [ebayona076@gmail.com](mailto:ebayona076@gmail.com)
